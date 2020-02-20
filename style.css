@@ -12,7 +12,7 @@ h2 {
     font-size: 40px;
 }
 
-.name-color {
+.orange-color {
     color: orange;
 }
 
@@ -41,6 +41,11 @@ h2 {
     border-radius: 5px;
     color: white;
     font-weight: 700;
+}
+
+.experience {
+    display: flex;
+    justify-content: center;
 }
 
 .dream {
