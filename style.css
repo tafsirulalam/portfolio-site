@@ -54,3 +54,32 @@ h2 {
     background-repeat: no-repeat;
     background-position: right;
 }
+
+.experience-area {
+    height: 400px;
+    background-image: url("img/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.exp-item {
+    box-shadow: 10px 10px 40px gray;
+    height: 70% ;
+    background-color: white;
+    border-left: 10px solid;
+    border-radius: 20px;
+}
+
+#exp-full-stack {
+    border-image: linear-gradient(red, blue);
+    border-image-slice: 1;
+}
+
+#exp-web-learner {
+    border-image: linear-gradient(cyan, blue);
+    border-image-slice: 1;
+}
+
+footer p {
+    text-align: center;
+}
