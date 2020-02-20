@@ -1,6 +1,7 @@
 body {
     margin: 0;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'raleway', sans-serif;
+    background-image: linear-gradient(lightgreen, cyan, white );
 
 }
 
@@ -31,7 +32,13 @@ h2 {
 }
 
 .half-width img {
-    width: 100%;
+    width: 80%;
+    
+}
+
+#propic {
+    border: 25px solid rgba(255, 255, 255, 0.4);
+    border-radius: 50%;
 }
 
 .link-button {
