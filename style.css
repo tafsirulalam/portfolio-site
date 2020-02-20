@@ -1,6 +1,6 @@
 body {
+    margin: 0;
     font-family: 'Ubuntu', sans-serif;
-    margin: 0px;
 
 }
 
@@ -20,7 +20,7 @@ h2 {
     background-image: url("img/top-banner.png");
     background-repeat: no-repeat;
     height: 500px;
-    margin-bottom: 100px;;
+    margin-bottom: 100px;
 }
 
 .half-width {
@@ -43,16 +43,16 @@ h2 {
     font-weight: 700;
 }
 
-.experience {
-    display: flex;
-    justify-content: center;
-}
-
-.dream {
+.dream-area {
     background-image: url("img/dream-bg.png");
     height: 500px;
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.experience {
+    display: flex;
+    justify-content: center;
 }
 
 .experience-area {
